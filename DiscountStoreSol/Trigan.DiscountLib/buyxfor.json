@@ -1,0 +1,16 @@
+﻿[
+  {
+    "IdOriginal": 100,
+    "IdBxfDiscount": 10100,
+    "CountForDiscount": 2,
+    "Name": "Big mug 2 for 1.50 €",
+    "Price": 1.5
+  },
+  {
+    "IdOriginal": 110,
+    "IdBxfDiscount": 10110,
+    "CountForDiscount": 3,
+    "Name": "Napkins pack 3 for 0.90 €",
+    "Price": 0.9
+  }
+]

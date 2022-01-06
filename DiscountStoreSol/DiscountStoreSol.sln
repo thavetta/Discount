@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trigan.DiscountLib", "Trigan.DiscountLib\Trigan.DiscountLib.csproj", "{552E6C23-0228-4D26-8B05-380AFDDF9D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigan.DiscountLibTests", "Trigan.DiscountLibTests\Trigan.DiscountLibTests.csproj", "{E4F0B8DC-1AB8-43DA-A30D-E7E83B395370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552E6C23-0228-4D26-8B05-380AFDDF9D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552E6C23-0228-4D26-8B05-380AFDDF9D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552E6C23-0228-4D26-8B05-380AFDDF9D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552E6C23-0228-4D26-8B05-380AFDDF9D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F0B8DC-1AB8-43DA-A30D-E7E83B395370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F0B8DC-1AB8-43DA-A30D-E7E83B395370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F0B8DC-1AB8-43DA-A30D-E7E83B395370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F0B8DC-1AB8-43DA-A30D-E7E83B395370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F556B71-AA82-40E6-A8CD-68AE74ABFCB4}
+	EndGlobalSection
+EndGlobal
